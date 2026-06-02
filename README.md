@@ -16,11 +16,8 @@
 <h2>bolk 2</h2>
 <p>
 
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-original.svg" title="Illustrator" alt="Illustrator" width="40" height="40""></a>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva&Affinity" alt="Canva&Affinity" width="40" height="40""></a>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40""></a>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/maya/maya-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/maya/maya-original.svg" title="Maya" alt="Maya" width="40" height="40""></a>
 
 </p>
 
 <h2>Projects</h3>
+Monk RPG (js) https://github.com/Magnuuus92/Monk-Rpg/tree/main <br>
