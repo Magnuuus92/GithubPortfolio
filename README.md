@@ -15,7 +15,7 @@
 
 <h2>bolk 2</h2>
 <p>
-https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg
+
  <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="unity" width="40" height="40""></a>
 </p>
 
