@@ -2,7 +2,7 @@
 
 - Learning Backend
 
-<h2>Bolk 1</h2>
+<h2>Techstack </h2>
 <p>
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="vscode" width="40" height="40""></a>
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="Visual Studio" alt="VS" width="40" height="40""></a>
@@ -13,11 +13,7 @@
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40""></a>
   </p>
 
-<h2>bolk 2</h2>
-<p>
-https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg
- <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="unity" width="40" height="40""></a>
-</p>
+
 
 <h2>Projects</h3>
 Monk RPG (js) https://github.com/Magnuuus92/Monk-Rpg/tree/main <br>
