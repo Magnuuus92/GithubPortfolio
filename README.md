@@ -17,7 +17,7 @@
   </p>
 
 
-[Digimon Viewer](https://github.com/Magnuuus92/Monk-Rpg/tree/main)  
+[Monk RPG js](https://github.com/Magnuuus92/Monk-Rpg/tree/main)  
 <h2>Projects</h3>
 [Monk RPG js](https://github.com/Magnuuus92/Monk-Rpg/tree/main)   
 
