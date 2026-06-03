@@ -1,6 +1,9 @@
 <h1 align="center">  Magnus Sørem </h1>
+<h2 align="center">  mmsorem@hotmail.com </h2>
 
-- Learning Backend
+
+-Begynte på kodehode avdeling porsgrunn september 2025. https://www.kodehode.no/ <br>
+-
 
 <h2>Techstack </h2>
 <p>
@@ -14,6 +17,8 @@
   </p>
 
 
-
+[Digimon Viewer](https://shadikodehode.github.io/DigimonViewer)  
 <h2>Projects</h3>
-Monk RPG (js) https://github.com/Magnuuus92/Monk-Rpg/tree/main <br>
+[Monk RPG js](https://github.com/Magnuuus92/Monk-Rpg/tree/main)   
+
+
