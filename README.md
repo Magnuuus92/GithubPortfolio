@@ -11,7 +11,7 @@ Har jobbet som blant annet: Tømrer, i barnehage, kundeservice, teknisk support,
 
 Etter at jeg startet å kode med c# skjønte jeg at dette var rett vei til å jobbe med noe jeg brenner for.
 Jeg har drevet med gaming så lenge jeg kan huske. Veldig glad i alle former spill.  
-Her er noen spill jeg liker: Dungeon keeper, Warcraft 3, Satisfactory, Factorio, Magic The Gathering, Dominion, Age of Empires.
+Her er noen spill jeg liker: Warcraft 3, Satisfactory, Factorio, Magic The Gathering, Dominion.
 
 <h2>Techstack </h2>
 <p>
